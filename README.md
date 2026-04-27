@@ -46,8 +46,8 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://codepen.io/inasselkhedim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="inasselkhedim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/inasseelkhedim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inasseelkhedim" height="30" width="40" /></a>
+<a href="https://codepen.io/isso-noussa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="inasselkhedim" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/inasse-elkhedim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inasseelkhedim" height="30" width="40" /></a>
 <a href="https://fb.com/isso_noussa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isso_noussa" height="30" width="40" /></a>
 <a href="https://instagram.com/isso_noussa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isso_noussa" height="30" width="40" /></a>
 </p>
